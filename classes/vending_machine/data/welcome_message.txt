@@ -1,0 +1,5 @@
+
+
+Welcome to the '{}' vending machine.
+
+Please select ONE of the following options:
